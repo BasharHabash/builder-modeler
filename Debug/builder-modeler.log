@@ -1,22 +1,2 @@
 ﻿  builder-modeler.cpp
-D:\GitHub\builder-modeler\builder-modeler.cpp(61,36): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(61,27): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(61,18): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(62,36): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(62,27): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(62,18): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(63,36): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(63,27): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(63,18): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(64,36): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(64,27): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(64,18): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(73,23): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(73,19): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(73,15): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(87,23): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(90,19): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\GitHub\builder-modeler\builder-modeler.cpp(95,24): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
-D:\GitHub\builder-modeler\builder-modeler.cpp(96,25): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
-D:\GitHub\builder-modeler\builder-modeler.cpp(122,31): warning C4305:  'argument': truncation from 'double' to 'GLclampf'
   builder-modeler.vcxproj -> D:\GitHub\builder-modeler\Debug\builder-modeler.exe
